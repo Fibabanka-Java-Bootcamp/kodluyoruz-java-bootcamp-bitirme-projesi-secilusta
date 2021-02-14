@@ -46,3 +46,5 @@ Hata durumları uygun şekilde ele alınmalı ve hatalara uygun responselar üre
 
 Uygulama genelinde Spring Boot, Spring MVC ve JPA kullanılmalı, clean code ve SOLID prensiplerine uyulmalı, unit testler 
 eklenmelidir.
+
+Swagger UI linki : http://localhost:8080/swagger-ui/index.html
